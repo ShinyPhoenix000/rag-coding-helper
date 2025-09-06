@@ -1,7 +1,11 @@
-echo "__pycache__/
-*.py[cod]
+.venv/
+__pycache__/
+*.pyc
 *.pyo
 *.pyd
+*.db
+*.sqlite3
+.DS_Store
 .env
-.venv/
-.vscode/" > .gitignore
+.env.*
+vectorstore/
