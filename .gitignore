@@ -1,10 +1,7 @@
-# Python
-__pycache__/
+echo "__pycache__/
 *.py[cod]
 *.pyo
 *.pyd
 .env
 .venv/
-
-# VS Code
-.vscode/
+.vscode/" > .gitignore
