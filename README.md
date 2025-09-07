@@ -9,6 +9,7 @@ rag-coding-helper/
 ├── main.py                # CLI entry point
 ├── requirements.txt       # Python dependencies
 ├── README.md              # Project documentation
+├── LICENSE                # MIT License
 ├── .gitignore             # Git ignore rules
 ├── data/                  # Markdown docs (API, cheatsheets)
 │   ├── pandas.md
@@ -99,7 +100,7 @@ Goodbye!
 
 ## License
 
-MIT License
+This project is licensed under the [MIT License](LICENSE) © 2025 ShinyPhoenix000.
 
 ## References
 
